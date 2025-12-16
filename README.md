@@ -13,9 +13,8 @@ Provisioning Script to make life easier with RunPod to deploy ComfyUI, Automatic
 - Lora Training Toolkits
 
 
-[!NOTE]
-> * (X) means feature is implemented (W) means it is implemented but testing is not complete and may not be functional
-
+> [!NOTE]
+> (X) means feature is implemented (W) means it is implemented but testing is not complete and may not be functional
 
 
 
